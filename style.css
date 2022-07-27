@@ -1,0 +1,8 @@
+header , footer{
+    background-color: #FFF9F4;
+}
+@media (max-width:576px) {
+    .closs{
+        flex-direction: column;
+    }
+}
